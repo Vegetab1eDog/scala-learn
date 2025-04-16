@@ -1,1 +1,1 @@
-***Learn Scala.
+Learn Scala.
